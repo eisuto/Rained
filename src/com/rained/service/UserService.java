@@ -1,6 +1,6 @@
-package main.service;
+package com.rained.service;
 
-import main.annotation.Ingredient;
+import com.rained.annotation.Ingredient;
 
 @Ingredient
 public class UserService {

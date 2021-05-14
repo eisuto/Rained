@@ -1,6 +1,6 @@
-package main.container;
+package com.rained.container;
 
-import main.annotation.Ingredient;
+import com.rained.annotation.Ingredient;
 import sun.reflect.misc.ReflectUtil;
 
 import java.lang.reflect.Field;

@@ -1,22 +1,15 @@
-package main.radar;
+package com.rained.radar;
 
 
-import main.container.Container;
-import main.container.ContainerReal;
+import com.rained.container.Container;
+import com.rained.container.ContainerReal;
 
 import java.io.File;
-import java.io.IOException;
 import java.lang.annotation.Annotation;
 import java.lang.reflect.Field;
-import java.net.JarURLConnection;
-import java.net.URL;
-import java.net.URLDecoder;
-import java.util.Enumeration;
 import java.util.HashSet;
 import java.util.Set;
 import java.util.function.Predicate;
-import java.util.jar.JarEntry;
-import java.util.jar.JarFile;
 
 public class Radar {
     public static Container container = new ContainerReal();

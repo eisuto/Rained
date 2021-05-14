@@ -1,10 +1,10 @@
-package main;
+package com.rained;
 
-import main.annotation.AutoCombine;
-import main.annotation.Ingredient;
-import main.radar.Radar;
-import main.service.UserService;
-import main.start.RainedApplication;
+import com.rained.annotation.AutoCombine;
+import com.rained.annotation.Ingredient;
+import com.rained.radar.Radar;
+import com.rained.service.UserService;
+import com.rained.start.RainedApplication;
 
 
 @Ingredient

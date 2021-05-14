@@ -1,4 +1,4 @@
-package main.annotation;
+package com.rained.annotation;
 
 import java.lang.annotation.*;
 

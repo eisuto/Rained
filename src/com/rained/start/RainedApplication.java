@@ -1,9 +1,9 @@
-package main.start;
+package com.rained.start;
 
 
-import main.annotation.AutoCombine;
-import main.annotation.Ingredient;
-import main.radar.Radar;
+import com.rained.annotation.AutoCombine;
+import com.rained.annotation.Ingredient;
+import com.rained.radar.Radar;
 
 /**
  * @author eisuto
